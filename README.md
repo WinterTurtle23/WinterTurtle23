@@ -22,6 +22,7 @@
 
 - **Active Shooter (VR Training Simulation)** – Multiplayer VR shooting simulation with **KAT treadmill, MetaHumans, and ForceTube Provolver**.
 - **VR Library (National Book Trust)** – **Immersive storytelling** experience in an ancient library setting.
+- **AIIMS DELHI** – A 2D game created for **AIIMS Delhi** featuring 10 activities designed by doctors for children with **ADHD**. The game tracks response time, patterns, and behavior to assist in diagnosis and therapy.
 - **Relic Hunters (Co-op Adventure)** – Multiplayer puzzle-solving game with **LAN support** on Android.
 - **DP World (Digital Twin)** – Real-time **dashboard-integrated** digital twin for **Dubai's DP World Complex**.
 - **Surgical Simulation (VR)** – **Hand-tracking VR** training for **CPR & AED kit usage**.
