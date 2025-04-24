@@ -1,6 +1,6 @@
 # Hi there, I'm Nitin! 👋
 
-![Header](https://your-image-link.com/header.png)
+![Header](https://github.com/WinterTurtle23/WinterTurtle23/blob/main/Github_Header.png)
 
 🚀 **Unreal Engine Developer | VR Enthusiast | Multiplayer Game Specialist**
 
@@ -18,7 +18,7 @@
 
 ### 🏆 Notable Projects
 
-![Projects](https://your-image-link.com/projects.png)
+![Projects](https://github.com/WinterTurtle23/WinterTurtle23/blob/main/Github_Projects.png)
 
 - **Active Shooter (VR Training Simulation)** – Multiplayer VR shooting simulation with **KAT treadmill, MetaHumans, and ForceTube Provolver**.
 - **VR Library (National Book Trust)** – **Immersive storytelling** experience in an ancient library setting.
@@ -33,7 +33,7 @@
 
 ### 💡 Skills & Expertise
 
-![Skills](https://your-image-link.com/skills.png)
+![Skills](https://github.com/WinterTurtle23/WinterTurtle23/blob/main/Github_Skills_01.png)
 
 🔹 **Unreal Engine 5** (C++ & Blueprints)  
 🔹 **VR Development** (KAT Treadmill, Hand tracking, Haptic feedback)  
@@ -47,7 +47,7 @@
 
 ### 📫 Get in Touch
 
-![Contact](https://your-image-link.com/contact.png)
+![Contact](https://github.com/WinterTurtle23/WinterTurtle23/blob/main/Github_Skills_02.png)
 
 📧 **Email:** nishad.nitin23@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/nitin-nishad-675848207  
@@ -56,4 +56,4 @@
 
 🚀 Always open to collaboration and new opportunities in **game development, VR simulations, and Unreal Engine projects**!
 
-![Footer](https://drive.google.com/file/d/1dmKJ_M1wW91S8vH0gj-CD3gzznv_hTjc/view?usp=drive_link)
+![Footer](https://github.com/WinterTurtle23/WinterTurtle23/blob/main/Github_Footer.png)
